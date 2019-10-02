@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">androidjetpacknavigation</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragmentprincipal">Fragment Principal</string>
+    <string name="fragmentsecundarioa">Fragment Secundario A</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragmentsecundariob">Fragment Secundario B</string>
+</resources>
